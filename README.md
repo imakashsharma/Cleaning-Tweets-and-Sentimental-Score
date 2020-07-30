@@ -1,1 +1,1 @@
-# Cleaning-Tweets-and-Sentimental-ScoreScore
+# Cleaning-Tweets-and-Sentimental-Score
